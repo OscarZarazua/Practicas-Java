@@ -1,0 +1,33 @@
+/*public class Customer{
+
+    private String firstName;
+    private String lastName;
+    public Account account;
+
+    public Customer(String f, String l)
+    public getFirstName(){
+        return firstName;
+    }
+    public getLastName(){
+        return lastName;
+    }
+    public getAccount(){
+        return Account
+    }
+    public setAccount(Account acct)
+}
+
+public class Account{
+
+    private double Balance;
+    public Account(double initBalance)
+    public getBalance(){
+        return double;
+    }
+    public deposit(double amt){
+        Balance +
+    }
+    public withdraw(double amt)
+}*/
+
+
